@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1099
+
+Hamster (Classic | Playground)
+
+Hamster is a local server for news and mail. It's a windows-32-bit-program. It allows the use of multiple news- and mailserver and combines them to one mail- and newsserver for the news/mail-client. It load faster than a normal newsreader because many threads can run simultaneous. It contains scorefile for news and mail, a build-in script language, the GUI allows translation to other languages, it can be used in a network and that's not all features...
+http://www.tglsoft.de/misc/hamster_en.htm
+http://www.elbiah.de/hamster/index.htm
+
+This is an indent file for the builtin scripting language. 
